@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # calculator-react
-[Live Demo] https://astonishing-kangaroo-4c554f.netlify.app/
+[Live Demo]  https://astonishing-kangaroo-4c554f.netlify.app/
