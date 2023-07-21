@@ -2,13 +2,14 @@
 
 import React from 'react';
 import MyComponent from './MyComponent';
+import CalcApp from './CalcApp';
 import './index.css';
 const App = () => {
   return (
-    <div>
-      <h1>Hello, React App!</h1>
+    <>
+       <CalcApp/>
       <MyComponent /> {/* Use the MyComponent here */}
-    </div>
+    </>
   );
 };
 
