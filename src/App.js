@@ -1,15 +1,13 @@
 // src/App.js
 
 import React from 'react';
-import MyComponent from './MyComponent';
-import CalcApp from './CalcApp';
 import './index.css';
+import Calculator from './Calculator';
 const App = () => {
   return (
     <>
-       <CalcApp/>
-      <MyComponent /> {/* Use the MyComponent here */}
-    </>
+      <Calculator/>
+   </>
   );
 };
 
