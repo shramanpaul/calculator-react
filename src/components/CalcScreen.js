@@ -9,7 +9,7 @@ function CalcScreen() {
 
   return (
     <>
-    <div className='md:max-w-screen-lg md:flex-col md:align-middle md:justify-center lg:ml-72'>
+    <div className='md:max-w-screen-lg md:flex-col md:align-middle md:justify-center lg:ml-72 '>
     <div className=' text-center font-extrabold font-mono text-2xl  bg-blue-100 border-2 border-black mt-4 mb-4 mr-1 ml-1 md:-mb-14'>Calculator</div>
     <div className='flex flex-col h-full -mb-28 pt-60  md:justify-start justify-start  bg-blue-100 border-2 border-black mt-4 mb-4 mr-1 ml-1 md:-mb-14'>
         
