@@ -61,7 +61,9 @@ function CalcApp({ count, addPercentage  }) {
   function addSub_1(){
     addPercentage(count + '-');
   }
+  
   function addEqual_1(){
+    // eslint-disable-next-line
     let equal= eval(count)
     addPercentage(equal.toString());
     // console.log(count);
