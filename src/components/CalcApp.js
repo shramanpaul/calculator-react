@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React  from 'react'
 // import CalcScreen from './CalcScreen';
 function CalcApp({ count, addPercentage  }) {
   
@@ -66,11 +66,11 @@ function CalcApp({ count, addPercentage  }) {
     addPercentage(equal.toString());
     // console.log(count);
   }
-  function enter(event){
-    if(event.keyCode===13||event.which===13){
-      addEqual_1();
-    }
-  }
+  // function enter(event){
+  //   if(event.keyCode===13||event.which===13){
+  //     addEqual_1();
+  //   }
+  // }
   // useEffect(() => {
   //   document.addEventListener('keydown', enter);
   //   // Remove the event listener when the component unmounts
