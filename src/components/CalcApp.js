@@ -111,10 +111,10 @@ function CalcApp({ count, addPercentage  }) {
           <button className='w-1/4 border-2 border-black' onClick={addAdd_1}>+</button>
         </div>
         <div className=' flex justify-center '>
-          <button className='w-1/4 h-6 md:h-full border-2 border-black' onClick={add00_1}>00</button>
-          <button className='w-1/4 h-6 md:h-full border-2 border-black' onClick={add0_1}>0</button>
-          <button className='w-1/4 h-6 md:h-full border-2 border-black' onClick={addDot_1}>.</button>
-          <button className='w-1/4 h-6 md:h-full border-2 border-black' onClick={addEqual_1} >=</button>
+          <button className='w-1/3 h-6 md:h-full border-2 border-black' onClick={add00_1}>00</button>
+          <button className='w-1/3 h-6 md:h-full border-2 border-black' onClick={add0_1}>0</button>
+          <button className='w-1/3 h-6 md:h-full border-2 border-black' onClick={addDot_1}>.</button>
+          <button className='w-1/3 h-6 md:h-full border-2 border-black' onClick={addEqual_1} >=</button>
         </div>
       </div>
     </div>
